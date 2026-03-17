@@ -1,0 +1,6 @@
+# 국고채 10년물 자동 리포트 - Python 패키지 목록
+playwright>=1.48.0     # 브라우저 자동화 (세션 쿠키 획득용)
+httpx>=0.27.0          # 비동기 HTTP 클라이언트 (API 요청)
+pandas>=2.0.0          # 데이터 처리
+python-dateutil>=2.8.0 # 날짜 계산 (relativedelta)
+python-dotenv>=1.0.0   # .env 파일 로드
